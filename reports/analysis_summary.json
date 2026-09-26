@@ -1,0 +1,66 @@
+{
+  "stories_analysed": 50,
+  "average_score": 143.26,
+  "median_score": 100.0,
+  "average_comments": 85.22,
+  "average_age_hours": 28.81,
+  "score_comment_correlation": 0.736,
+  "top_story": {
+    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "domain": "gultsch.de",
+    "score": 221,
+    "comments": 80,
+    "trend_score": 53.313
+  },
+  "top_domains": [
+    {
+      "domain": "swarmtraces.org",
+      "stories": 1,
+      "total_score": 550
+    },
+    {
+      "domain": "ollaya.dev",
+      "stories": 1,
+      "total_score": 498
+    },
+    {
+      "domain": "cnbc.com",
+      "stories": 1,
+      "total_score": 459
+    },
+    {
+      "domain": "go.dev",
+      "stories": 1,
+      "total_score": 393
+    },
+    {
+      "domain": "aymannadeem.com",
+      "stories": 1,
+      "total_score": 384
+    }
+  ],
+  "top_authors": [
+    {
+      "author": "pseudolus",
+      "stories": 2
+    },
+    {
+      "author": "ezst",
+      "stories": 1
+    },
+    {
+      "author": "saibotk",
+      "stories": 1
+    },
+    {
+      "author": "cramer4next",
+      "stories": 1
+    },
+    {
+      "author": "specked-citrus",
+      "stories": 1
+    }
+  ],
+  "newest_story_title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+  "oldest_story_title": "How video games inspire great UX (2019)"
+}
